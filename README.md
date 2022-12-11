@@ -1,7 +1,10 @@
-### Hi there 👋
+ # 👋 Oh, MSCBM Lab
 
-<!--
-**mscbmlab/mscbmlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The **MSCBM Lab** is led by Hemi Luan, PhD, and is a part of the XXX. We work at the intersection of Mass pectrometry and computational biomedicine. The advent of Mass spectrometry (MS)-based omics technologies (Metabolomics, Proteomics) has enabled us to survey the whole metabolites, xenobiotic substance, and proteins from an organism, tissue, cell or biofluid, and decipher molecular mechanisms underlying complex human diseases. The rapid developments in this field have allowed us to generate big data at once, we would like to develop the state-of-the-art methods for various sentiment analysis tasks and interpreted big data with high quality.
+
+## 🔧 Things I work with
+To learn more about our research, please see our projects and publications.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
