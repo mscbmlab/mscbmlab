@@ -22,4 +22,4 @@ Here you can read more about the three main research topics we have at the momen
 
 ## 👋🏼 Job, Come and join us!
 
- - Student: We welcome students at all levels including international students. For future PhD/Master students, you need to apply through the university program but we are happy to answer your questions by email (hm-luan[at]msn.com). For undergraduate students interested in doing an internship at our lab, please check out our research and send an email to us directly with a short introduction of yourself.
+ - **Student**: We welcome students at all levels including international students. For future PhD/Master students, you need to apply through the university program but we are happy to answer your questions by email (hm-luan[at]msn.com). For undergraduate students interested in doing an internship at our lab, please check out our research and send an email to us directly with a short introduction of yourself.
