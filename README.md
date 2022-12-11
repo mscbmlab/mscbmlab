@@ -12,7 +12,7 @@ Here you can read more about the three main research topics we have at the momen
       - **statTarget**, is a streamlined tool for quality control based signal correction, integration of metabolomics and proteomics data from multi-batch experiments, and the comprehensive statistic analysis (`URL: https://stattarget.github.io`). The statTarget has two basic sections. The first section is  `Signal Correction`. It includes ‘Ensemble Learning’ for QC based signal correction. For example, QC-based random forest correction (QC-RFSC) and QC-based LOESS signal correction (QCRLSC).The second section is `Statistical Analysis`. It provides comprehensively computational and statistical methods that are commonly applied to analyze Omics data, and offers multiple results for biomarker discovery. The  `statTargetGUI` provides the simple easy to use interface for the above functions, which have been online at a stand-alone app [statTargetAPP](https://github.com/statTarget/statTarget2/releases).The package version is at bioconductor with [statTarget](https://bioconductor.org/packages/statTarget/).(Anal Chim Acta. 2018, 1036, 66-72.)![statTarget](https://raw.githubusercontent.com/13479776/Picture/master/shiftC-14.jpg)
 
       - CPVA
-      - CPVA2
+      - CPVA 2.0
       - mID     
 
 #### 🤔 Computational biomedicine
