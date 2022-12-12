@@ -11,10 +11,10 @@ The **MSCBM Lab** is led by Hemi Luan, PhD, and is a part of the XXX. We work at
 - [Publication](#publication)
 
 
-## Things We work with 🔧
+## Things We work with 
 Here you can read more about the three main research topics we have at the moment:
 
-#### 🔭 Mass spectrometry
+####  Mass spectrometry
  - The advent of Mass spectrometry (MS)-based omics technologies (Metabolomics, Proteomics) has enabled us to survey the whole metabolites, xenobiotic substance, and proteins from an organism, tissue, cell or biofluid, and decipher molecular mechanisms underlying complex human diseases. The rapid developments in this field have allowed us to generate big data at once, we would like to develop the state-of-the-art MS methods for various analysis tasks and interpreted big data with high quality.
  
    > Software
@@ -24,19 +24,18 @@ Here you can read more about the three main research topics we have at the momen
       - CPVA 2.0
       - mID     
 
-#### 🤔 Computational biomedicine
+####  Computational biomedicine
 
-#### ⚡ Percision Medicine
+####  Percision Medicine
 
-
-## 👋🏼 Job, Come and join us!
+####  Job, Come and join us!
 
  - **PosDoc**: ....
 
 
  - **Student**: We welcome students at all levels including international students. For future PhD/Master students, you need to apply through the university program but we are happy to answer your questions by email (`hm-luan[at]msn.com`). For undergraduate students interested in doing an internship at our lab, please check out our research and send an email to us directly with a short introduction of yourself.
 
-## 🤔 Publication
+## Publication
 
 ```
 Hemi Luan. Machine learning for screening active metabolites with metabolomics in environmental science, Environ. Sci.: Adv., 2022, https://doi.org/10.1039/D2VA00107A
