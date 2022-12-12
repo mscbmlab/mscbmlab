@@ -5,7 +5,6 @@ The **MSCBM Lab** is led by Hemi Luan, PhD, and is a part of the XXX. We work at
 #### Contents
 - [Things We work with](#things-we-work-with)
    - [Mass spectrometry](#mass-spectrometry)
-     -[Software](#software)
    - [Computational biomedicine](#computational-biomedicine)
    - [Percision Medicine](#percision-medicine)
 - [Job, Come and join us](#job-come-and-join-us)
