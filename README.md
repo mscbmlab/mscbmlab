@@ -30,7 +30,7 @@ Here you can read more about the three main research topics we have at the momen
 
 ####  Percision Medicine
 
-####  Come and join us
+##  Come and join us
 
  - **PosDoc**: ....
 
