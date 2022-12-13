@@ -27,6 +27,7 @@ Here you can read more about the three main research topics we have at the momen
       - mID     
 
 ####  Computational biomedicine
+  - Integrating AI/ML and MS-based data from metabolomics, lipidomics, and proteomics, we would like to analyze and model complex multidimensional data, such as medical record, environmental exposure, and biological data, etc., to understand the complex biological processes of health and disease.
 
 ####  Percision Medicine
 
