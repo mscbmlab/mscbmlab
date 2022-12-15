@@ -6,7 +6,7 @@ The **MSCBM Lab** is led by Hemi Luan, PhD, and is a part of the XXX. We work at
 - [Things We work with](#things-we-work-with)
    - [Mass spectrometry](#mass-spectrometry)
    - [Computational biomedicine](#computational-biomedicine)
-   - [Percision Medicine](#percision-medicine)
+   - [Percision Medicine & Targeted Therapy](#percision-medicine)
 - [Job, Come and join us](#come-and-join-us)
 - [Publication](#publication)
 
@@ -29,7 +29,7 @@ Here you can read more about the three main research topics we have at the momen
 ####  Computational biomedicine
   - Integrating AI/ML and MS-based data from metabolomics, lipidomics, and proteomics, we would like to analyze and model complex multidimensional data, such as medical record, environmental exposure, and biological data, etc., to understand the complex biological processes of health and disease.
 
-####  Percision Medicine
+####  Percision Medicine & Targeted Therapy
 
 ##  Come and join us
 
