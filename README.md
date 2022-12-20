@@ -1,4 +1,4 @@
- # 👋 Oh, MSCBM Lab
+ # 👋 Oh, MSCBM Lab 
 
 The **MSCBM Lab** is led by Hemi Luan, PhD, and is a part of the XXX. We work at the intersection of Mass pectrometry and computational biomedicine.The broad goal of our research is to gain mechanistic insights about human health by applying mass spectrometry and computational methods to modern big data. 
 
@@ -31,6 +31,8 @@ Here you can read more about the three main research topics we have at the momen
 
 ####  Percision Medicine & Targeted Therapy
   -  Discovery of active small molecule metabolites/drugs/environmental contaminants and their applications in biomarkers, immunometabolism and human health/disease.
+      -  Rheumatoid Arthritis
+      -  Parkinson’s disease
   
 ##  Come and join us
 
