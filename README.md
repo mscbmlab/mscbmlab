@@ -15,7 +15,7 @@ The **MSCBM Lab** is led by Hemi Luan, PhD, and is a part of the XXX. We work at
 Here you can read more about the three main research topics we have at the moment:
 
 ####  Mass spectrometry
- - The advent of Mass spectrometry (MS)-based omics technologies (Metabolomics, Proteomics) has enabled us to survey the whole metabolites, xenobiotic substance, and proteins from an organism, tissue, cell or biofluid, and decipher molecular mechanisms underlying complex human diseases. The rapid developments in this field have allowed us to generate big data at once, we would like to develop the state-of-the-art MS methods for various analysis tasks and interpreted big data with high quality.
+ - The advent of Mass spectrometry (MS)-based omics technologies (Metabolomics, Proteomics) has enabled us to survey the whole metabolites, protein, and environmental pollutants from an organism, tissue, cell or biofluid, and decipher molecular mechanisms underlying complex human diseases. The rapid developments in this field have allowed us to generate big data at once, we would like to develop the state-of-the-art MS methods for various analysis tasks and interpreted big data with high quality.
  
    > Software
   
@@ -30,9 +30,10 @@ Here you can read more about the three main research topics we have at the momen
   - Integrating AI/ML and MS-based data from metabolomics, lipidomics, and proteomics, we would like to analyze and model complex multidimensional data, such as medical record, environmental exposure, and biological data, etc., to understand the complex biological processes of health and disease.
 
 ####  Percision Medicine & Targeted Therapy
-  -  Discovery of active small molecule metabolites/drugs/environmental contaminants and their applications in biomarkers, immunometabolism and human health/disease.
+  -  Discovery of active small molecule metabolites/drugs/environmental contaminants and their applications in human health/disease.
       -  Rheumatoid Arthritis
       -  Parkinson’s disease
+      -  Cancer
   
 ##  Come and join us
 
