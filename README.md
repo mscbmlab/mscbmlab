@@ -37,7 +37,7 @@ Here you can read more about the three main research topics we have at the momen
   
 ##  Come and join us
 
- - **PosDoc**: In general, we expect that: (1) you have or will soon have a PhD degree in a related field, such as Analytical chemistry, Mass spectrometry, Bioinformatics, Computer science or statistics etc.; (2) you can program in at least one language, such as R, Java or C/C++ etc.; (3) you have published at least one first-author peer-reviewed paper in related topics. `Salary`:( https://xxgcxy-en.gdut.edu.cn/info/1199/2663.htm)
+ - **PosDoc**: In general, we expect that: (1) you have or will soon have a PhD degree in a related field, such as Analytical chemistry, Mass spectrometry, Bioinformatics, Computer science or statistics etc.; (2) you can program in at least one language, such as R, Java or C/C++ etc.; (3) you have published at least one first-author peer-reviewed paper in related topics. [Salary]( https://xxgcxy-en.gdut.edu.cn/info/1199/2663.htm)
  
 
  - **Student**: We welcome students at all levels including international students. For future PhD/Master students, you need to apply through the university program but we are happy to answer your questions by email (`hm-luan[at]msn.com`). For undergraduate students interested in doing an internship at our lab, please check out our research and send an email to us directly with a short introduction of yourself.
