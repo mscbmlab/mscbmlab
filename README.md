@@ -1,6 +1,6 @@
  # 👋 Oh, MSCBM Lab 
 
-The **MSCBM Lab** is led by Prof. Hemi Luan, PhD, and is a part of the School of Biomedical and Phamaceutical Sicences,[GDUT](https://english.gdut.edu.cn/About_Us/About_GDUT.htm), China. We work at the intersection of Mass pectrometry and computational biomedicine.The broad goal of our research is to gain mechanistic insights about human health by using mass spectrometry. 
+The **MSCBM Lab** is led by Prof. Hemi Luan, PhD, and is a part of the School of Biomedical and Pharmaceutical Sciences,[GDUT](https://english.gdut.edu.cn/About_Us/About_GDUT.htm), China. We work at the intersection of Mass pectrometry and computational biomedicine.The broad goal of our research is to gain mechanistic insights about human health by using mass spectrometry. 
 
 #### Contents
 - [Things We work with](#things-we-work-with)
@@ -16,7 +16,8 @@ Here you can read more about the three main research topics we have at the momen
 
 ####  Mass spectrometry
  - The advent of Mass spectrometry (MS)-based analytical technologies has enabled us to survey the whole metabolites, protein, and environmental pollutants from an organism, tissue, cell or biofluid, and decipher molecular mechanisms underlying complex human diseases. The rapid developments in this field have allowed us to generate big data at once, we would like to develop the state-of-the-art MS methods for various analysis tasks and interpreted big data with high quality.
-   > Environmental Analytical Chemistry
+ 
+   > Environmental Metabolomics
    
    > Software
   
