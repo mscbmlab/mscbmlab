@@ -6,7 +6,7 @@ The **MSCBM Lab** is led by Prof. Hemi Luan, PhD, and is a part of the School of
 - [Things We work with](#things-we-work-with)
    - [Mass spectrometry](#mass-spectrometry)
    - [Computational biomedicine](#computational-biomedicine)
-   - [Percision Medicine & Targeted Therapy](#percision-medicine)
+   - [Environmental pollution and human health](#Environmental-pollution-and-human-health)
 - [Job, Come and join us](#come-and-join-us)
 - [Publication](#publication)
 
