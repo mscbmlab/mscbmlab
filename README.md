@@ -31,11 +31,13 @@ Here you can read more about the three main research topics we have at the momen
 ####  Computational biomedicine
   - Integrating AI/ML and MS-based data from metabolomics, lipidomics, and proteomics, we would like to analyze and model complex multidimensional data, such as medical record, environmental exposure, and biological data, etc., to understand the complex biological processes of health and disease.
 
-####  Percision Medicine & Targeted Therapy
+  - Integrating AI/ML and MS-based data from metabolomics, lipidomics, and proteomics, we would like to analyze and model complex multidimensional data, such as medical record, environmental exposure, and biological data, etc., to understand the complex biological processes of health and disease.
   -  Discovery of active small molecule metabolites/drugs/environmental contaminants and their applications in human health/disease.
       -  Rheumatoid Arthritis
       -  Parkinson’s disease
       -  Cancer
+
+####  Environmental pollution and human health
   
 ##  Come and join us
 
