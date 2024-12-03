@@ -7,9 +7,11 @@ The **MSCBM Lab** is led by Prof. Hemi Luan, PhD, and is a part of the School of
    - [Mass spectrometry](#mass-spectrometry)
      - [Environmental Chemical Exposomics and Metabolomics]
      - [Software]
+       
    - [Computational biomedicine](#computational-biomedicine)
-   - [Environmental pollution and human health](#Environmental-pollution-and-human-health)
+     
 - [Job, Come and join us](#come-and-join-us)
+  
 - [Publication](#publication)
 
 
@@ -39,7 +41,6 @@ Here you can read more about the three main research topics we have at the momen
       -  Parkinson’s disease
       -  Cancer
 
-####  Environmental pollution and human health
   
 ##  Come and join us
 
