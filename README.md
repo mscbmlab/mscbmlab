@@ -7,8 +7,7 @@ The MSCBM Lab is led by **Prof. Hemi Luan**, PhD, and is a part of the School of
 - [Things We work with](#things-we-work-with)
    - [Mass spectrometry](#mass-spectrometry)
      - [Environmental Chemical Exposomics and Metabolomics]
-     - [Software]
-       
+     - [Software]     
    - [Computational biomedicine](#computational-biomedicine)
      
 - [Job, Come and join us](#come-and-join-us)
