@@ -3,16 +3,16 @@
 
 <p align="center">
 
-  <h3 align="center">"MS"</h3>
+  <h3 align="center">"Mass Spec & Comput Biomed"</h3>
   <p align="center">
-    MS
+    For the intersection of Mass pectrometry and computational biomedicine
     <br />
     <br />
-    <a href="">MS</a>
+    <a href="">Mass spectrometry</a>
     ·
-    <a href="">ST</a>
+    <a href="">Data Analysis and Software</a>
     ·
-    <a href="">ss</a>
+    <a href="">Human Health/Disease</a>
   </p>
 
 </p>
