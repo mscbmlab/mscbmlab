@@ -20,7 +20,7 @@
 
 
 #
-The MSCBM Lab is led by **Prof. Hemi Luan**, PhD, and is a part of the School of Biomedical and Pharmaceutical Sciences,[GDUT](https://english.gdut.edu.cn/About_Us/About_GDUT.htm), China. We work at the intersection of Mass pectrometry and computational biomedicine.The broad goal of our research is to gain mechanistic insights about human health by using mass spectrometry. 
+The MSCBM Lab is led by **Prof. Hemi Luan (栾合密博士)**, PhD, and is a part of the School of Biomedical and Pharmaceutical Sciences,[GDUT](https://english.gdut.edu.cn/About_Us/About_GDUT.htm), China. We work at the intersection of Mass pectrometry and computational biomedicine.The broad goal of our research is to gain mechanistic insights about human health by using mass spectrometry. 
 
 #### Contents
 - [Things We work with](#things-we-work-with)
